@@ -1,0 +1,18 @@
+{
+  "name": "reprap",
+  "version": "0.0.1",
+  "description": "An AI agent that generates its own tools",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "bun run --watch index.ts",
+    "start": "bun run index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.6",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "bun-types": "latest"
+  }
+}
