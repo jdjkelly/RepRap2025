@@ -19,6 +19,8 @@ It has two tools available to begin with:
 1. A tool that reads the main file
 2. A tool that can write to the main file
 
+![image](https://github.com/user-attachments/assets/fde3220f-551a-4558-8a14-c71be07b691f)
+
 ## Setup
 
 ```
